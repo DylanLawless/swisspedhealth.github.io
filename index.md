@@ -207,7 +207,7 @@ You can read more about SPHN on their website <a href="https://sphn.ch">sphn.ch<
 
 <h3>PHRT</h3>
 <p>SwissPedHealth is part of Personalized Health and Related Technologies (PHRT). 
-You can read more about SPHN on their website <a href="https://www.sfa-phrt.ch">sfa-phrt.ch</a>.</p>
+You can read more about SPHN on their website <a href="https://www.sfa-phrt.ch">sfa-phrt.ch</a>. Test.</p>
 </article>
 
 </div>
